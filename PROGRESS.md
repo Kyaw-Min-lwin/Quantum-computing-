@@ -1,6 +1,6 @@
 # Learning progress
 
-Snapshot: 6 October 2026. Topic coverage is not the same as independent coding completion.
+Snapshot: 12 October 2026. Topic coverage is not the same as independent coding completion.
 
 ## Foundations discussed and checkpoint answers reviewed
 
@@ -26,9 +26,13 @@ Snapshot: 6 October 2026. Topic coverage is not the same as independent coding c
 - [ ] Section 6: measurement shots and repeated preparation
 - [ ] Section 7: independent one-qubit challenge
 
-## Later roadmap — not completed
+## Single-qubit theory and remaining roadmap
 
-- [ ] Phase and rotation gates; Bloch sphere
+- [x] Phase gates P, S, T — lesson and checkpoint feedback covered
+- [x] Bloch sphere, magnitude triangle, and half-angle — covered and reviewed
+- [x] Rz — lesson and checkpoint feedback covered
+- [x] Ry and Rx — lesson covered
+- [ ] Ry/Rx checkpoint — awaiting answers
 - [ ] Tensor products and multi-qubit states
 - [ ] CNOT, Bell states, entanglement
 - [ ] Observables, expectation values, noise
